@@ -10,6 +10,7 @@ include(
     'components/templates.py',
     'components/database.py',
     'components/auth.py',
+    'components/logging.py',
     'components/i18n.py',
     'components/static.py',
 )
